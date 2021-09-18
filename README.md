@@ -3,13 +3,9 @@
 ##
 所需环境:
 
-python2
-
-
-python3
-
-
-foremost
+* python2
+* python3
+* foremost
 
 
 
@@ -38,3 +34,16 @@ pip install pycryptodome
 
 示例:python3 auto-vol1.py 1.raw --profile=Win7SP1x64
 
+
+##
+实现的功能:
+* foremost分离镜像内的文件
+* 扫描镜像内进程
+* 扫描历史cmd命令
+* 扫描网络连接
+* 扫描网络流量
+* 扫描注册表
+* 爆破用户名密码
+* 爆破bitlocker密码
+* 扫描镜像内txt文件
+* 扫描镜像内与flag有关文件

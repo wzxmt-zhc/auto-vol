@@ -10,11 +10,14 @@ python3
 
 foremost
 
-'sudo pip install construct==2.5.5-reupload'
 
-'pip install distorm3'
+```bash
+sudo pip install construct==2.5.5-reupload
 
-'pip install pycryptodome'
+pip install distorm3
+
+pip install pycryptodome
+```
 
 ##
 使用方法:

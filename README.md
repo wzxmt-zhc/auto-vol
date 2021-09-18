@@ -3,11 +3,14 @@
 ##
 所需环境:
 
-*python2
+*
+python2
 
-*python3
+*
+python3
 
-*foremost
+*
+foremost
 
 
 ```bash

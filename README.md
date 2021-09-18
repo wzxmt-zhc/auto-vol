@@ -1,10 +1,16 @@
 所需环境:
 python2
+
 python3
+
 foremost
+
 sudo pip install construct==2.5.5-reupload
+
 pip install distorm3
+
 pip install pycryptodome
+
 
 1.配置好所需环境
 2.用auto-vol1.py脚本识别出系统信息

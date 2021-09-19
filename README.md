@@ -14,6 +14,8 @@ sudo pip install construct==2.5.5-reupload
 
 pip install distorm3
 
+pip install Crypto.hash
+
 pip install pycryptodome
 ```
 

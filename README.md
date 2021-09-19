@@ -12,11 +12,15 @@
 ```bash
 sudo pip install construct==2.5.5-reupload
 
+sudo pip3 install construct==2.5.5-reupload
+
 pip install distorm3
 
-pip install Crypto.hash
+pip3 install distorm3
 
 pip install pycryptodome
+
+pip3 install pycryptodome
 ```
 
 ##

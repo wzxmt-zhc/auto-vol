@@ -12,11 +12,7 @@
 ```bash
 sudo pip install construct==2.5.5-reupload
 
-sudo pip3 install construct==2.5.5-reupload
-
 pip install distorm3
-
-pip3 install distorm3
 
 pip install pycryptodome
 
@@ -39,6 +35,10 @@ pip3 install pycryptodome
 用法:python3 + auto-vol2.py +镜像名称 + --profile=镜像系统
 
 示例:python3 auto-vol1.py 1.raw --profile=Win7SP1x64
+
+4.若要分离扫描出的文件，请用exportfile.py脚本
+
+用法:python3 + exportfile.py +镜像名称 + --profile=镜像系统 + dumpfiles + -Q + 所在内存地址
 
 
 ##

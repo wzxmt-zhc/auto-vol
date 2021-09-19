@@ -40,6 +40,8 @@ pip3 install pycryptodome
 
 用法:python3 + exportfile.py +镜像名称 + --profile=镜像系统 + dumpfiles + -Q + 所在内存地址
 
+示例:python3 exportfile.py 1.raw --profile=Win7SP1x64 dumpfiles -Q 0x00000000071e2bb0 
+
 
 ##
 实现的功能:
